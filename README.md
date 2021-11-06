@@ -28,8 +28,8 @@ Here is the full hardware list/BOM:
 - Lube for the plunger tube.
 
 I have printable versions of these parts
-- 6x 4-40 hex standoff
-- 1x nylon spacer (sear pivot)
+- 6x 4-40 hex standoff https://github.com/Sillybutts/Blaster-Bits/tree/main/Printable%20Hardware/Printable%204-40%20Screw%20Hex%20Standoff
+- 1x nylon spacer (sear pivot) https://github.com/Sillybutts/Blaster-Bits/tree/main/Printable%20Hardware/Printable%20CaptainSlug%20Nylon%20Spacer%20Replacement
 
 You also need these if you are using the optional collapsing stock.
 - 2x TCt4 priming bar
