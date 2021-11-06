@@ -8,16 +8,12 @@ Here are the extra bits you need for the Thumper:
 - TC length (5.72 inch) plunger tube instead of the shorter Skewer PT
 - Only 1 TC length threaded rod is needed
 - 3x Caliburn/TC takedown pins
-- More 4-40 screws
+- Way more 4-40 screws
 
 Here is the full hardware list/BOM:
 
 - 42x 4-40 screws
 - 3x Caliburn/TC takedown pins
-- TC length (5.72 inch) plunger tube (https://www.etsy.com/listing/546697210/nerf-caliburnespertalon-claw-15-od-clear?ref=shop_home_active_12&variation0=1765993232)
-- TC sized spring of choice (788, k25, k26, etc)
-- 1x TC length 10-32 threaded rod
-- 1x TC length rod cover (aluminum)
 - 1x short pin (trigger pivot)
 - 2x 1.75in L 10-32 screw
 - 4x 10-32 nut
@@ -25,6 +21,10 @@ Here is the full hardware list/BOM:
 - 1x 016 o-ring
 - 1x 011 o-ring
 - 1x extension spring OR 1x elastic cord/rubber band for the sear.
+- TC length (5.72 inch) plunger tube (https://www.etsy.com/listing/546697210/nerf-caliburnespertalon-claw-15-od-clear?ref=shop_home_active_12&variation0=1765993232)
+- TC sized spring of choice (788, k25, k26, etc)
+- 1x TC length 10-32 threaded rod
+- 1x TC length rod cover (aluminum)
 - Lube for the plunger tube.
 
 I have printable versions of these parts
