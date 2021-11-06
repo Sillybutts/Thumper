@@ -36,3 +36,5 @@ You also need these if you are using the optional collapsing stock.
 - 2x .31in 10-32 screw
 - 8x 4-40 screw
 - Super Glue or other adhesive to connect a few small parts
+
+Any shop that sells Caliburns *and* Skewers should have all this hardware available. Ask them for a custom order of these parts.
