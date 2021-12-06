@@ -12,6 +12,8 @@ Here are the extra bits you need for the Thumper:
 - 3x Caliburn/TC takedown pins
 - Way more 4-40 screws
 
+# DO NOT PRINT THIS YET, THESE ARE NOT READY FOR PRINTING. JUST SHARING THEM TO AN ALPHA TESTER. I WILL MAKE AN ANNOUNCEMENT ON MY YOUTUBE, OR CHANGE THE TEXT HERE, WHEN FILES ARE READY FOR OTHER PEOPLE!
+
 Here is the full hardware list/BOM:
 
 - 42x 4-40 screws
@@ -40,3 +42,5 @@ You also need these if you are using the optional collapsing stock.
 - Super Glue or other adhesive to connect a few small parts
 
 Any shop that sells Caliburns *and* Skewers should have all this hardware available. Ask them for a custom order of these parts.
+
+# DO NOT PRINT THIS YET, THESE ARE NOT READY FOR PRINTING. JUST SHARING THEM TO AN ALPHA TESTER. I WILL MAKE AN ANNOUNCEMENT ON MY YOUTUBE, OR CHANGE THE TEXT HERE, WHEN FILES ARE READY FOR OTHER PEOPLE!
