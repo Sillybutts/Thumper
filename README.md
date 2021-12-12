@@ -1,5 +1,7 @@
 # DO NOT PRINT THIS YET, THESE ARE NOT READY FOR PRINTING. JUST SHARING THEM TO A BETA TESTER. I WILL MAKE AN ANNOUNCEMENT ON MY YOUTUBE, OR CHANGE THE TEXT HERE, WHEN FILES ARE READY FOR OTHER PEOPLE!
 
+<img src="GHimages/Thumper%20v2%20v61.png" width="500">
+
 The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 
 ### Hardware/Bill of Materials:
@@ -38,3 +40,7 @@ I have printable versions of these parts
 Any shop that sells Caliburns *and* Skewers should have all this hardware available. Ask them for a custom order of these parts.
 
 # DO NOT PRINT THIS YET, THESE ARE NOT READY FOR PRINTING. JUST SHARING THEM TO A BETA TESTER. I WILL MAKE AN ANNOUNCEMENT ON MY YOUTUBE, OR CHANGE THE TEXT HERE, WHEN FILES ARE READY FOR OTHER PEOPLE!
+
+## Images
+
+<img src="GHimages/Thumper%20v2%20v61.png" width="500">
