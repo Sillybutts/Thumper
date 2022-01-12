@@ -3,8 +3,8 @@ The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 
 ***THIS BLASTER IS STILL IN BETA. NOT ALL PARTS, INSTRUCTIONS, OR INFORMATION ARE FINAL.***
 
-<img src="GHimages/" width="500">
-<img src="GHimages/" width="500">
+<img src="GHimages/Thumper%20v2%20v75%201.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%202.png" width="500">
 
 The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy), with printed U channel construction, a top slide prime, and a sliding harmonica style modular clip. 
 
