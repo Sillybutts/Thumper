@@ -8,6 +8,14 @@ The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 
 The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy), with printed U channel construction, a top slide prime, and a sliding harmonica style modular clip. 
 
+v1 Overview: https://www.youtube.com/watch?v=ypzIMQQ_47Y
+
+T pull demo: https://www.youtube.com/watch?v=vLJoGCkIHTI
+
+Module assembly: https://www.youtube.com/watch?v=HuW52fb0P1s
+
+Module screw locking: https://www.youtube.com/watch?v=CKlnjwkntmQ
+
 
 ## Print Info
 
@@ -74,6 +82,9 @@ Any shop that sells U series Slug blasters and Skewers should have all this hard
 
 I'll make a proper assembly video at some point, but for now, just follow the relevant parts of the TCU assembly guide (http://captainslug.com/nerf/TalonClawUAssembly1.pdf) and the Skewer assembly guide (http://captainslug.com/nerf/SkewerAssembly.pdf). The harmonica clip portion is pretty easy to figure out on your own.
 
+Module assembly: https://www.youtube.com/watch?v=HuW52fb0P1s
+
+Module screw locking: https://www.youtube.com/watch?v=CKlnjwkntmQ
 
 ## Extra Files
 
@@ -91,6 +102,11 @@ STEP and F3D files are public and included on this page. Please contact me via D
 
 ## Images
 
-<img src="GHimages/" width="500">
-<img src="GHimages/" width="500">
+<img src="GHimages/Thumper%20v2%20v75%201.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%202.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%203.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%204.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%205.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%206.png" width="500">
+<img src="GHimages/Thumper%20v2%20v75%207.png" width="500">
 
