@@ -1,7 +1,7 @@
 # Thumper
 The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 
-***THIS BLASTER IS STILL IN BETA. NOT ALL PARTS, INSTRUCTIONS, OR INFORMATION ARE FINAL.***
+***THIS BLASTER IS STILL IN BETA. PARTS, INSTRUCTIONS, AND ANY OTHER INFORMATION IS LIKELY SUBJECT TO CHANGE.***
 
 <img src="GHimages/Thumper%20v2%20v75%201.png" width="500">
 <img src="GHimages/Thumper%20v2%20v75%202.png" width="500">
@@ -49,7 +49,7 @@ The whole blaster can be printed on a 150x150 print bed, as long as you place so
 
 ## Hardware
 
-Working on getting hardware sold somewhere, please either wait for hardware production, or buy it from McMaster/Slug.
+Hardware is sold by CaptainSlug: https://www.etsy.com/listing/1159155297/thumper-beta-hardware-kit
 
 Hardware/Bill of Materials: 
 
