@@ -8,6 +8,11 @@ The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 
 The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy), with printed U channel construction, a top slide prime, and a sliding harmonica style modular clip. 
 
+#### Reviews:
+FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
+
+#### Misc. Videos:
+
 v1 Overview: https://www.youtube.com/watch?v=ypzIMQQ_47Y
 
 T pull demo: https://www.youtube.com/watch?v=vLJoGCkIHTI
@@ -34,17 +39,13 @@ The rest of the blaster can be printed at 3 or 4 walls, 20% infill. GYROID INFIL
 The whole blaster can be printed on a 150x150 print bed, as long as you place some parts diagonally. 
 
 
-## Performance & Reviews
+## Performance
 
-#### Performance Stats:
-- k25
+- k25 (k26 is very similar)
 - - MegaXL: 80FPS avg
 - - 3x Mega: WIP
 - - 6x Elite: WIP
 - - 6x Half Dart: WIP
-
-#### Reviews:
-FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 
 ## Hardware
 
