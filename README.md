@@ -116,6 +116,7 @@ STEP and F3D files are public and included on this page. Please contact me via D
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts 
 
+And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 
 ## Images
