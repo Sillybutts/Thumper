@@ -5,7 +5,7 @@ The Thumper is a MegaXL/Shotgun, top slide prime, harmonica clip fed blaster.
 **THIS BLASTER IS NOT YET RELEASED. DESIGN IS GOING WELL, BUT THE FILES HERE ARE OLD! I WILL ANNOUNCE ON MY YOUTUBE AND REDDIT WHEN THE BLASTER IS FINISHED. AS OF RIGHT NOW, DO NOT PRINT UNLESS I TOLD YOU TO!**
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
-
+<img src="GHimages/Thumper%20v3%20v8.png" width="500">
 <img src="GHimages/Thumper%20v2%20v75%201.png" width="500">
 <img src="GHimages/Thumper%20v2%20v75%202.png" width="500">
 
