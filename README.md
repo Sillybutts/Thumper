@@ -14,7 +14,7 @@ The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaste
 FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 
 #### Misc. Videos:
-
+Blaster overview: https://youtu.be/HWm5wlSj84c
 
 ## Print Info
 
