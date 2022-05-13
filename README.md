@@ -17,6 +17,14 @@ FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 #### Misc. Videos:
 Blaster overview: https://youtu.be/HWm5wlSj84c
 
+## Performance
+
+- k25 (k26 is very similar)
+- - MegaXL: 80FPS avg
+- - 3x Mega: WIP
+- - 6x Elite: WIP
+- - 6x Half Dart: WIP
+
 ## Print Info
 
 The clip modules should be printed at 2 walls, 10% gyroid infill to be both strong (enough), and light (ish).
@@ -25,14 +33,8 @@ The sear, ram, puller, sealer, spring cup, and T pull should all be printed at 5
 
 The rest of the blaster can be printed at 3 or 4 walls, 20% infill. GYROID INFILL IS BEST.
 
+Print 4x of the "Bracket" part.
 
-## Performance
-
-- k25 (k26 is very similar)
-- - MegaXL: 80FPS avg
-- - 3x Mega: WIP
-- - 6x Elite: WIP
-- - 6x Half Dart: WIP
 
 ## Hardware
 
