@@ -4,8 +4,6 @@ The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaste
 ***THIS BLASTER IS STILL IN BETA. PARTS, INSTRUCTIONS, AND ANY OTHER INFORMATION IS LIKELY SUBJECT TO CHANGE.***
 **THIS BLASTER IS NOT YET RELEASED. DESIGN IS GOING WELL, BUT THE FILES HERE ARE OLD! I WILL ANNOUNCE ON MY YOUTUBE AND REDDIT WHEN THE BLASTER IS FINISHED. AS OF RIGHT NOW, DO NOT PRINT UNLESS I TOLD YOU TO!**
 
-**If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
-
 <img src="GHimages/" width="500">
 
 The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy).
