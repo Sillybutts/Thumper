@@ -4,7 +4,10 @@ The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaste
 ***THIS BLASTER IS STILL IN BETA. PARTS, INSTRUCTIONS, AND ANY OTHER INFORMATION IS LIKELY SUBJECT TO CHANGE.***
 **THIS BLASTER IS NOT YET RELEASED. DESIGN IS GOING WELL, BUT THE FILES HERE ARE OLD! I WILL ANNOUNCE ON MY YOUTUBE AND REDDIT WHEN THE BLASTER IS FINISHED. AS OF RIGHT NOW, DO NOT PRINT UNLESS I TOLD YOU TO!**
 
-<img src="GHimages/Thumper%20old%20vs%20new.jpg" width="500">
+<img src="GHimages/Thumper%20old%20vs%20new.jpg" width="300">
+<img src="GHimages/Thumper%20v4%20v97%205.png" width="300">
+<img src="GHimages/Thumper%20v4%20v97%201.png" width="300">
+
 
 The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy).
 
@@ -72,7 +75,13 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
-<img src="GHimages/" width="500">
 <img src="GHimages/Thumper%20old%20vs%20new.jpg" width="500">
 <img src="GHimages/Thumper%20Part%20Layout.jpg" width="500">
 <img src="GHimages/Thumper%20Hardware%20Layout.jpg" width="500">
+<img src="GHimages/Thumper%20v4%20v97%201.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%202.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%203.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%204.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%205.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%206.png" width="500">
+<img src="GHimages/Thumper%20v4%20v97%207.png" width="500">
