@@ -44,7 +44,7 @@ The nylon spacer (sear pivot) can be printed https://github.com/Sillybutts/Blast
 
 ## Assembly
 
-I'll make a proper assembly video at some point, but for now, just follow the relevant parts of the TCU assembly guide (http://captainslug.com/nerf/TalonClawUAssembly1.pdf) and the Skewer assembly guide (http://captainslug.com/nerf/SkewerAssembly.pdf). The harmonica clip portion is pretty easy to figure out on your own.
+I am still working on an assembly video, I just need to finish editing it. For now, just follow the plunger parts of the Skewer assembly guide (http://captainslug.com/nerf/SkewerAssembly.pdf) and the grip assembly parts of the Talon Claw T4 build guide (http://captainslug.com/nerf/T4Assembly1.pdf). The harmonica clip portion is pretty easy to figure out on your own, just slide the parts together until the back is level, then put in the locking screws.
 
 If your cam arm is wobbly on the side, print the tighter version.
 
