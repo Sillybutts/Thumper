@@ -44,6 +44,9 @@ The nylon spacer (sear pivot) can be printed https://github.com/Sillybutts/Blast
 
 I'll make a proper assembly video at some point, but for now, just follow the relevant parts of the TCU assembly guide (http://captainslug.com/nerf/TalonClawUAssembly1.pdf) and the Skewer assembly guide (http://captainslug.com/nerf/SkewerAssembly.pdf). The harmonica clip portion is pretty easy to figure out on your own.
 
+<img src="GHimages/Thumper%20Part%20Layout.jpg" width="500">
+<img src="GHimages/Thumper%20Hardware%20Layout.jpg" width="500">
+
 ## Extra Files
 
 STEP and F3D files are public and included on this page. Please contact me via Discord (Sillybutts#5905) and show me what you do with them!
