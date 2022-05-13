@@ -35,6 +35,8 @@ The rest of the blaster can be printed at 3 or 4 walls, 20% infill. GYROID INFIL
 
 ## Hardware
 
+Full HW list/BOM: https://docs.google.com/spreadsheets/d/1czb6vyq1ABUQXkraX95rTjFpWHEiODONb04fz7ID08o/
+
 The nylon spacer (sear pivot) can be printed https://github.com/Sillybutts/Blaster-Bits/tree/main/Printable%20Hardware/Printable%20CaptainSlug%20Nylon%20Spacer%20Replacement
 
 ## Assembly
