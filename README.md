@@ -1,9 +1,6 @@
 # Thumper
 The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaster.
 
-***THIS BLASTER IS STILL IN BETA. PARTS, INSTRUCTIONS, AND ANY OTHER INFORMATION IS LIKELY SUBJECT TO CHANGE.***
-**THIS BLASTER IS NOT YET RELEASED. DESIGN IS GOING WELL, BUT THE FILES HERE ARE OLD! I WILL ANNOUNCE ON MY YOUTUBE AND REDDIT WHEN THE BLASTER IS FINISHED. AS OF RIGHT NOW, DO NOT PRINT UNLESS I TOLD YOU TO!**
-
 <img src="GHimages/Thumper%20old%20vs%20new.jpg" width="300">
 <img src="GHimages/Thumper%20v4%20v97%205.png" width="300">
 <img src="GHimages/Thumper%20v4%20v97%201.png" width="300">
