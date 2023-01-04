@@ -7,7 +7,8 @@ The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaste
 <img src="GHimages/Thumper%20old%20vs%20new.jpg" width="300">
 <img src="GHimages/Thumper%20v4%20v97%205.png" width="300">
 <img src="GHimages/Thumper%20v4%20v97%201.png" width="300">
-
+<img src="GHimages/Thumper%20v4%20v104%20print%20orientation.png" width="300">
+<img src="GHimages/Thumper%20v4%20v104%20modern%20modules.png" width="300">
 
 The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy).
 
@@ -16,6 +17,7 @@ FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 
 #### Misc. Videos:
 Blaster overview: https://youtu.be/HWm5wlSj84c
+
 Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
 ## Performance
@@ -27,6 +29,8 @@ Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 - - 6x Half Dart: WIP
 
 ## Print Info
+
+<img src="GHimages/Thumper%20v4%20v104%20print%20orientation.png" width="500">
 
 The clip modules should be printed at 2 walls, 10% gyroid infill to be both strong (enough), and light (ish).
 
@@ -49,6 +53,7 @@ Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
 If your cam arm extremely wobbly on the side, print the tighter version. A bit of wobble is normal.
 
+<img src="GHimages/Thumper%20v4%20v104%20modern%20modules.png" width="500">
 <img src="GHimages/Thumper%20Part%20Layout.jpg" width="500">
 <img src="GHimages/Thumper%20Hardware%20Layout.jpg" width="500">
 
@@ -86,6 +91,8 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 <img src="GHimages/Thumper%20old%20vs%20new.jpg" width="500">
 <img src="GHimages/Thumper%20Part%20Layout.jpg" width="500">
 <img src="GHimages/Thumper%20Hardware%20Layout.jpg" width="500">
+<img src="GHimages/Thumper%20v4%20v104%20print%20orientation.png" width="500">
+<img src="GHimages/Thumper%20v4%20v104%20modern%20modules.png" width="500">
 <img src="GHimages/Thumper%20v4%20v97%201.png" width="500">
 <img src="GHimages/Thumper%20v4%20v97%202.png" width="500">
 <img src="GHimages/Thumper%20v4%20v97%203.png" width="500">
