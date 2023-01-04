@@ -16,6 +16,7 @@ FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 
 #### Misc. Videos:
 Blaster overview: https://youtu.be/HWm5wlSj84c
+Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
 ## Performance
 
@@ -44,9 +45,9 @@ The nylon spacer (sear pivot) can be printed https://github.com/Sillybutts/Blast
 
 ## Assembly
 
-I am still working on an assembly video, I just need to finish editing it. For now, just follow the plunger parts of the Skewer assembly guide (http://captainslug.com/nerf/SkewerAssembly.pdf) and the grip assembly parts of the Talon Claw T4 build guide (http://captainslug.com/nerf/T4Assembly1.pdf). The harmonica clip portion is pretty easy to figure out on your own, just slide the parts together until the back is level, then put in the locking screws.
+Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
-If your cam arm is wobbly on the side, print the tighter version.
+If your cam arm extremely wobbly on the side, print the tighter version. A bit of wobble is normal.
 
 <img src="GHimages/Thumper%20Part%20Layout.jpg" width="500">
 <img src="GHimages/Thumper%20Hardware%20Layout.jpg" width="500">
