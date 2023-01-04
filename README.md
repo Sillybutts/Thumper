@@ -29,6 +29,9 @@ Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
 <img src="GHimages/Thumper%20v4%20v104%20print%20orientation.png" width="500">
 
+<img src="GHimages/Thumper%20Color%20Guide.png" width="500">
+
+
 The clip modules should be printed at 2 walls, 10% gyroid infill to be both strong (enough), and light (ish).
 
 The sear, ram, puller, sealer, spring cup, and T pull should all be printed at 5 walls, 80%(or more) infill.
