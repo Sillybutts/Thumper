@@ -19,10 +19,10 @@ https://www.patreon.com/sillybutts Monthly donations
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> 
 https://www.buymeacoffee.com/sillybutts One-time donations
 
-#### Reviews:
+## Reviews:
 FamilyFoamsport: https://www.youtube.com/watch?v=HE-zkEBi10c
 
-#### Misc. Videos:
+## Misc. Videos:
 Blaster overview: https://youtu.be/HWm5wlSj84c
 
 Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
@@ -35,7 +35,7 @@ Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 - - 6x Elite: WIP
 - - 6x Half Dart: WIP
 
-### Sellers
+## Sellers
 Hardware is available from these sellers:
 - SilverFoxIndustries: WIP
 - OutOfDarts: https://outofdarts.com/products/thumper-hardware
