@@ -52,7 +52,7 @@ Fully printed/assembled blasters are available from these sellers:
 
 The clip modules should be printed at 2 walls, 10% gyroid infill to be both strong (enough), and light (ish).
 
-The sear, ram, puller, sealer, spring cup, and T pull should all be printed at 5 walls, 80%(or more) infill.
+The sear, ram, puller, sealer, spring cup, and T pull should all be printed at 5 walls, 100% infill.
 
 The rest of the blaster can be printed at 3 or 4 walls, 20% infill. GYROID INFILL IS BEST.
 
