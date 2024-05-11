@@ -37,11 +37,10 @@ Assembly guide: https://www.youtube.com/watch?v=9UbyAuOb4q4
 
 ## Sellers
 Hardware is available from these sellers:
-- SilverFoxIndustries: WIP
 - OutOfDarts: https://outofdarts.com/products/thumper-hardware
 
 Fully printed/assembled blasters are available from these sellers:
-- OutOfDarts (Build it yourself): https://outofdarts.com/products/thumper-3d-parts-hardware-kit?variant=40447231066154
+- OutOfDarts (Build it yourself): https://outofdarts.com/products/thumper-3d-parts-hardware-kit
 - OutOfDarts (Fully assembled): https://outofdarts.com/products/thumper-fully-assembled-blaster
 
 ## Print Info
