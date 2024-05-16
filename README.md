@@ -7,6 +7,12 @@ The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaste
 <img src="GHimages/Thumper%20v4%20v104%20print%20orientation.png" width="300">
 <img src="GHimages/Thumper%20v4%20v104%20modern%20modules.png" width="300">
 
+
+<a href="https://www.printables.com/model/876268-thumper-harmonica-clip-shotgun-blaster-nerf-homema"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/876268-thumper-harmonica-clip-shotgun-blaster-nerf-homema
+
+
 The Thumper is a MegaXL/Shotgun, T-pull prime, modular harmonica clip fed blaster using a similar internal mechanism to the Skewer blaster designed by Charamile Designs (Taffy).
 
 ## I don't charge for my files, please consider supporting me! 
